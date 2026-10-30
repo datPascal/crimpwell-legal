@@ -117,7 +117,7 @@ Pro is a one-time purchase. It unlocks the full plan, the session player and the
 I am liable without limit for damage caused intentionally or through gross negligence, for injury to life, body or health, and under the German Product Liability Act (Produkthaftungsgesetz). For slight negligence I am liable only for breach of an essential contractual obligation, limited to the damage that was foreseeable when you bought Pro. Statutory consumer rights that can't be excluded stay unaffected.
 
 ## 9. Sources and credits
-Every question, rule and explanation links to published studies and clinical guidelines in the Sources screen of the app. The 3D hand is built from the BodyParts3D atlas by the Database Center for Life Science (CC BY 4.0), with pulleys modelled from a 2026 imaging review.
+The questions, tests, rules and lessons draw on the published studies and clinical guidelines listed in the Sources screen of the app. The 3D hand is built from the BodyParts3D atlas by the Database Center for Life Science (CC BY 4.0), with pulleys modelled from a 2026 imaging review.
 
 ## 10. Law
 German law applies, except where the law of the country you live in gives you stronger consumer protection.
